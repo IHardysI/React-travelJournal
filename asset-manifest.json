@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.ea67e23a.css",
-    "main.js": "/static/js/main.41f0106b.js",
-    "static/js/787.39019643.chunk.js": "/static/js/787.39019643.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.10ddb4ca94ecf3a9f9b4a03e41ebeb6e.svg",
-    "index.html": "/index.html",
-    "static/media/location.svg": "/static/media/location.1f226562855444fb8b7486883ccc7a0c.svg",
-    "main.ea67e23a.css.map": "/static/css/main.ea67e23a.css.map",
-    "main.41f0106b.js.map": "/static/js/main.41f0106b.js.map",
-    "787.39019643.chunk.js.map": "/static/js/787.39019643.chunk.js.map"
+    "main.css": "/React-travelJournal/static/css/main.ea67e23a.css",
+    "main.js": "/React-travelJournal/static/js/main.17c6228c.js",
+    "static/js/787.39019643.chunk.js": "/React-travelJournal/static/js/787.39019643.chunk.js",
+    "static/media/logo.svg": "/React-travelJournal/static/media/logo.10ddb4ca94ecf3a9f9b4a03e41ebeb6e.svg",
+    "index.html": "/React-travelJournal/index.html",
+    "static/media/location.svg": "/React-travelJournal/static/media/location.1f226562855444fb8b7486883ccc7a0c.svg",
+    "main.ea67e23a.css.map": "/React-travelJournal/static/css/main.ea67e23a.css.map",
+    "main.17c6228c.js.map": "/React-travelJournal/static/js/main.17c6228c.js.map",
+    "787.39019643.chunk.js.map": "/React-travelJournal/static/js/787.39019643.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ea67e23a.css",
-    "static/js/main.41f0106b.js"
+    "static/js/main.17c6228c.js"
   ]
 }
